@@ -1,6 +1,0 @@
-NJominiMap = {
-    WORLD_EXTENTS_X = 9215
-    WORLD_EXTENTS_Y = 50
-    WORLD_EXTENTS_Z = 6143
-    WATERLEVEL = 3
-}
