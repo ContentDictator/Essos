@@ -1,0 +1,150 @@
+e_bloodless_men = {
+        851.7.7 = {
+                holder = gen_3856
+        }
+}
+e_cannibal_sands = {
+        851.7.7 = {
+                holder = gen_3857
+        }
+}
+e_grey_waste = {
+        851.7.7 = {
+                holder = gen_3858
+        }
+}
+e_hidden_sea = {
+        851.7.7 = {
+                holder = gen_3859
+        }
+}
+e_ibben = {
+        851.7.7 = {
+                holder = gen_3860
+        }
+}
+e_ifequevron = {
+        851.7.7 = {
+                holder = gen_3861
+        }
+}
+e_lesser_moraq = {
+        851.7.7 = {
+                holder = gen_3862
+        }
+}
+e_lorath = {
+        851.7.7 = {
+                holder = gen_3863
+        }
+}
+e_mossovy = {
+        851.7.7 = {
+                holder = gen_3864
+        }
+}
+e_mountains_of_the_moon = {
+        851.7.7 = {
+                holder = gen_3865
+        }
+}
+e_naath = {
+        851.7.7 = {
+                holder = gen_3866
+        }
+}
+e_norvos = {
+        851.7.7 = {
+                holder = gen_3867
+        }
+}
+e_omber = {
+        851.7.7 = {
+                holder = gen_3868
+        }
+}
+e_qohor = {
+        851.7.7 = {
+                holder = gen_3869
+        }
+}
+e_sarnor = {
+        851.7.7 = {
+                holder = gen_3870
+        }
+}
+e_sothoryos = {
+        851.7.7 = {
+                holder = gen_3871
+        }
+}
+e_summer_isles = {
+        851.7.7 = {
+                holder = gen_3872
+        }
+}
+e_thousand_islands = {
+        851.7.7 = {
+                holder = gen_3873
+        }
+}
+e_ulthos = {
+        851.7.7 = {
+                holder = gen_3874
+        }
+}
+e_upper_sarne_dothraki = {
+        851.7.7 = {
+                holder = gen_3875
+        }
+}
+e_lower_sarne_dothraki = {
+        851.7.7 = {
+                holder = gen_3876
+        }
+}
+e_great_grass_sea_dothraki = {
+        851.7.7 = {
+                holder = gen_3877
+        }
+}
+e_bone_mountain_dothraki = {
+        851.7.7 = {
+                holder = gen_3878
+        }
+}
+e_lhazar = {
+        851.7.7 = {
+                holder = gen_3879
+        }
+}
+e_qarth = {
+        851.7.7 = {
+                holder = gen_3880
+        }
+}
+e_red_waste = {
+        851.7.7 = {
+                holder = gen_3881
+        }
+}
+e_golden_yi_ti = {
+        851.7.7 = {
+                holder = gen_3882
+        }
+}
+e_jogos_nhai = {
+        851.7.7 = {
+                holder = gen_3883
+        }
+}
+e_great_moraq = {
+        851.7.7 = {
+                holder = gen_3884
+        }
+}
+e_leng = {
+        851.7.7 = {
+                holder = gen_3885
+        }
+}

@@ -1,0 +1,269 @@
+gen_3856 = {
+        name = "Bloodless Men Ruler"
+        culture = bloodless_man
+        religion = eldritch_fishgod
+        820.1.1 = {
+                birth = yes
+        }
+}
+
+gen_3857 = {
+        name = "Cannibal Sands Ruler"
+        culture = qaleen
+        religion = eldritch_yellow
+        820.1.1 = {
+                birth = yes
+        }
+}
+
+gen_3858 = {
+        name = "Grey Waste Ruler"
+        culture = shamyrianan
+        religion = rhllor_hyrkoon
+        820.1.1 = {
+                birth = yes
+        }
+}
+
+gen_3859 = {
+        name = "Hidden Sea Ruler"
+        culture = kayakayanayan
+        religion = rhllor_hyrkoon
+        820.1.1 = {
+                birth = yes
+        }
+}
+
+gen_3860 = {
+        name = "Ibben Ruler"
+        culture = ibbatese
+        religion = ib_ven_god_king
+        820.1.1 = {
+                birth = yes
+        }
+}
+
+gen_3861 = {
+        name = "Ifequevron Ruler"
+        culture = ifequevron
+        religion = fg_pan_elenei
+        820.1.1 = {
+                birth = yes
+        }
+}
+
+gen_3862 = {
+        name = "Lesser Moraq Ruler"
+        culture = farosi
+        religion = eldritch_bloodgod
+        820.1.1 = {
+                birth = yes
+        }
+}
+
+gen_3863 = {
+        name = "Lorath Ruler"
+        culture = lorathi
+        religion = fc_pan_lorath
+        820.1.1 = {
+                birth = yes
+        }
+}
+
+gen_3864 = {
+        name = "Mossovy Ruler"
+        culture = mossovite
+        religion = song_mossovy
+        820.1.1 = {
+                birth = yes
+        }
+}
+
+gen_3865 = {
+        name = "Mountains Of Thmoon Ruler"
+        culture = shan_ren
+        religion = yt_court_celestial
+        820.1.1 = {
+                birth = yes
+        }
+}
+
+gen_3866 = {
+        name = "Naath Ruler"
+        culture = naathi
+        religion = god_naath
+        820.1.1 = {
+                birth = yes
+        }
+}
+
+gen_3867 = {
+        name = "Norvos Ruler"
+        culture = norvoshi
+        religion = fc_pan_bearded
+        820.1.1 = {
+                birth = yes
+        }
+}
+
+gen_3868 = {
+        name = "Omber Ruler"
+        culture = omberi
+        religion = dothraki_faith
+        820.1.1 = {
+                birth = yes
+        }
+}
+
+gen_3869 = {
+        name = "Qohor Ruler"
+        culture = qohorik
+        religion = fc_pan_blackgoat
+        820.1.1 = {
+                birth = yes
+        }
+}
+
+gen_3870 = {
+        name = "Sarnor Ruler"
+        culture = tagaez_fen
+        religion = sarnori_faith
+        820.1.1 = {
+                birth = yes
+        }
+}
+
+gen_3871 = {
+        name = "Sothoryos Ruler"
+        culture = gogossite
+        religion = shanty_greenhell
+        820.1.1 = {
+                birth = yes
+        }
+}
+
+gen_3872 = {
+        name = "Summer Isles Ruler"
+        culture = jhalai
+        religion = summer_gods_pan
+        820.1.1 = {
+                birth = yes
+        }
+}
+
+gen_3873 = {
+        name = "Thousand Islands Ruler"
+        culture = manticorian
+        religion = eldritch_fishgod
+        820.1.1 = {
+                birth = yes
+        }
+}
+
+gen_3874 = {
+        name = "Ulthos Ruler"
+        culture = shadowman
+        religion = eldritch_bloodgod
+        820.1.1 = {
+                birth = yes
+        }
+}
+
+gen_3875 = {
+        name = "Upper Sarndothraki Ruler"
+        culture = dothraki
+        religion = dothraki_faith
+        820.1.1 = {
+                birth = yes
+        }
+}
+
+gen_3876 = {
+        name = "Lower Sarndothraki Ruler"
+        culture = dothraki
+        religion = dothraki_faith
+        820.1.1 = {
+                birth = yes
+        }
+}
+
+gen_3877 = {
+        name = "Great Grass Sea Dothraki Ruler"
+        culture = dothraki
+        religion = dothraki_faith
+        820.1.1 = {
+                birth = yes
+        }
+}
+
+gen_3878 = {
+        name = "Bonmountain Dothraki Ruler"
+        culture = dothraki
+        religion = dothraki_faith
+        820.1.1 = {
+                birth = yes
+        }
+}
+
+gen_3879 = {
+        name = "Lhazar Ruler"
+        culture = lhazareen
+        religion = shepherd_faith
+        820.1.1 = {
+                birth = yes
+        }
+}
+
+gen_3880 = {
+        name = "Qarth Ruler"
+        culture = qartheen
+        religion = qh_pureborn
+        820.1.1 = {
+                birth = yes
+        }
+}
+
+gen_3881 = {
+        name = "Red Waste Ruler"
+        culture = qaleen
+        religion = eldritch_yellow
+        820.1.1 = {
+                birth = yes
+        }
+}
+
+gen_3882 = {
+        name = "Golden Yi Ti Ruler"
+        culture = feicui_ren
+        religion = yt_court_celestial
+        820.1.1 = {
+                birth = yes
+        }
+}
+
+gen_3883 = {
+        name = "Jogos Nhai Ruler"
+        culture = nefer
+        religion = song_nefer
+        820.1.1 = {
+                birth = yes
+        }
+}
+
+gen_3884 = {
+        name = "Great Moraq Ruler"
+        culture = vahari
+        religion = eldritch_bloodgod
+        820.1.1 = {
+                birth = yes
+        }
+}
+
+gen_3885 = {
+        name = "Leng Ruler"
+        culture = lengii
+        religion = eldritch_leng
+        820.1.1 = {
+                birth = yes
+        }
+}
